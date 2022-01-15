@@ -5,7 +5,7 @@ This powershell script helps you generate:
 - random passwords
 - and random animal names
 
-This project has been implemented fulfilling these [Documentation](Documentation\Requirements.md).
+This project has been implemented fulfilling these [Requirements](Documentation\Requirements.md).
 
 ## Usage
 
